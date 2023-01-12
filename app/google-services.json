@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1068317075047",
+    "project_id": "myfirebase-7e0d8",
+    "storage_bucket": "myfirebase-7e0d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068317075047:android:932322ea427b92f844d6c2",
+        "android_client_info": {
+          "package_name": "org.techtown.gitflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068317075047-d5bf8diq42pfknu9bn4kvl3h618a6bf7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.techtown.gitflow",
+            "certificate_hash": "83631f80d0f6c9beaab1bf28d9f84b8ace2e3e4b"
+          }
+        },
+        {
+          "client_id": "1068317075047-7opv68c9h9fbvqdk6ktd6eih34fs28sj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA32GtGBRhbTacPVTEs38p6nfoNvcXUTEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068317075047-7opv68c9h9fbvqdk6ktd6eih34fs28sj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
