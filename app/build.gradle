@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace 'org.techtown.myfirebase'
+    namespace 'org.techtown.gitflow'
     compileSdk 32
 
     defaultConfig {
